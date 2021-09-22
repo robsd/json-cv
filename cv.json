@@ -1,0 +1,56 @@
+{
+	"name": {
+		"given": "YOUR FIRST NAME",
+		"family": "YOUR LAST NAME"
+	},
+	"contacts": {
+		"phone": "YOUR PHONE NUMBER",
+		"email": "YOUR EMAIL ADDRESS",
+		"website": "YOUR WEBSITE URL",
+		"linkedin": "YOUR LINKEDIN URL"
+	},
+	"personal_profile": "SOME WORDS ABOUT YOU",
+	"soft_skills": [
+		"A SKILL",
+		"ANOTHER SKILL",
+		"A THIRD SKILL"
+	],
+	"experience": [
+		{
+			"dates": "WHEN YOU STARTED AND WHEN YOU FINISHED",
+			"company": "THE COMPANY YOU WORKED FOR",
+			"position": "THE POSITION YOU HELD",
+			"description": "YOUR RESPONSIBILITIES IN THE POSITION"
+		},
+		{
+			"dates": "WHEN YOU STARTED AND WHEN YOU FINISHED",
+			"company": "THE COMPANY YOU WORKED FOR",
+			"position": "THE POSITION YOU HELD",
+			"description": "YOUR RESPONSIBILITIES IN THE POSITION"
+		}
+	],
+	"education": [
+		{
+			"dates": "WHEN YOU STARTED AND WHEN YOU FINISHED",
+			"institution": "THE PLACE YOU STUDIED AT",
+			"course": "WHAT YOU STUDIED",
+			"description": "THE ACTIVITES OR MODULES YOU DID DURING YOUR STUDIES"
+		},
+		{
+			"dates": "WHEN YOU STARTED AND WHEN YOU FINISHED",
+			"institution": "THE PLACE YOU STUDIED AT",
+			"course": "WHAT YOU STUDIED",
+			"description": "THE ACTIVITES OR MODULES YOU DID DURING YOUR STUDIES"
+		},
+	],
+	"awards_achievements": [
+		"AN AWARD",
+		"ANOTHER AWARD",
+		"ANOTHER AWARD"
+	],
+	"hobbies_interests": [
+		"A HOBBY",
+		"ANOTHER HOBBY",
+		"ANOTHER HOBBY"
+	]
+}
