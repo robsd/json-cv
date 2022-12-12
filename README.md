@@ -10,4 +10,4 @@ Display your CV (resume) in a JSON-formatted way.
 
 ## JSON syntax
 
-This [helpful guide by W3Schools](https://www.w3schools.com/js/js_json_syntax.asp) should give you everything you work with JSON.
+This [helpful guide by W3Schools](https://www.w3schools.com/js/js_json_syntax.asp) should give you everything to work with JSON.
